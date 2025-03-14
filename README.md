@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm GnanavelGopal</h1>
 <h3 align="center">A passionate mern developer and java backend developer from India</h3>
 
+
+-💻 I’m currently working on JAVA Backend Developer.
+
 - 🌱 I’m currently learning **Mern Stack Developing**
 
-- 💬 Ask me about **Java and Java script**
+- 💬 Ask me about **Java and MERN Stack**
 
 - 📫 How to reach me **gnanavelgopal135@gmail.com**
 
